@@ -2,7 +2,7 @@
 
 A student team at Dongguk University in Seoul. We make **SoundVisualizer**, an open-source app that shows the direction, loudness and type of sounds on screen for deaf and hard-of-hearing people.
 
-**[Website](https://sovis-team.github.io/en/) · [Android demo](https://youtu.be/Rl8BLXjoTv4) · [Windows demo](https://youtu.be/NBRV5AWpb38) · [Instagram](https://www.instagram.com/soundvisualizer.official/) · [한국어](#한국어)**
+**[Website](https://sovis-team.github.io/en/) · [Android demo](https://youtu.be/Rl8BLXjoTv4) · [Windows demo](https://youtu.be/NBRV5AWpb38) · [Instagram](https://www.instagram.com/soundvisualizer.official/) · [YouTube](https://www.youtube.com/@soundvisualizer.official) · [한국어](#한국어)**
 
 ## Projects
 
@@ -45,7 +45,7 @@ Issues, pull requests and feedback are welcome. Contact: sovis.kr@gmail.com
 
 동국대학교 학생 팀 SOVIS입니다. 소리의 방향·세기·종류를 보던 화면 위에 그려 보여 주는 **SoundVisualizer**를 만듭니다.
 
-- [Android 버전](https://github.com/SOVIS-Team/SoundVisualizer-Android) · [Windows 버전](https://github.com/SOVIS-Team/SoundVisualizer-Windows) · [웹사이트](https://sovis-team.github.io) · [Android 소개 영상](https://youtu.be/Rl8BLXjoTv4) · [PC 소개 영상](https://youtu.be/NBRV5AWpb38) · [인스타그램](https://www.instagram.com/soundvisualizer.official/)
+- [Android 버전](https://github.com/SOVIS-Team/SoundVisualizer-Android) · [Windows 버전](https://github.com/SOVIS-Team/SoundVisualizer-Windows) · [웹사이트](https://sovis-team.github.io) · [Android 소개 영상](https://youtu.be/Rl8BLXjoTv4) · [PC 소개 영상](https://youtu.be/NBRV5AWpb38) · [인스타그램](https://www.instagram.com/soundvisualizer.official/) · [유튜브](https://www.youtube.com/@soundvisualizer.official)
 - 국립서울농학교 청각장애 학생들과 세 차례 테스트하며 기능을 정했습니다.
 - 한국장애인재단 2026 장애인 분야 해커톤 디지털 포용 분야 입선
 - 오픈소스 목록 등록: awesome-accessibility, open-source-android-apps에 실렸고, winget, awesome-kotlin, awesome-free-apps, Open App Scout 등 12곳은 검토 중입니다(위 표 참고).
