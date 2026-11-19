@@ -29,6 +29,10 @@ A student team at Dongguk University in Seoul. We make **SoundVisualizer**, an o
 | [awesome-kotlin (mcxiaoke)](https://github.com/mcxiaoke/awesome-kotlin) | Android | In review ([#154](https://github.com/mcxiaoke/awesome-kotlin/pull/154)) |
 | [awesome-windows](https://github.com/thechampagne/awesome-windows) | Windows | In review ([#162](https://github.com/thechampagne/awesome-windows/pull/162)) |
 | [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) | Android, Windows | In review ([#95](https://github.com/willianjusten/awesome-audio-visualization/pull/95)) |
+| [awesome-android-foss](https://github.com/pronzzz/awesome-android-foss) | Android | In review ([#11](https://github.com/pronzzz/awesome-android-foss/pull/11)) |
+| [Awesome Android Open Source Projects](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects) | Android | In review ([#87](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects/pull/87)) |
+| [awesome-free-software](https://github.com/johnjago/awesome-free-software) | Android, Windows | In review ([#177](https://github.com/johnjago/awesome-free-software/pull/177)) |
+| [awesome-hearing](https://github.com/rscircus/awesome-hearing) | Android, Windows | In review ([#1](https://github.com/rscircus/awesome-hearing/pull/1)) |
 | [OpenAPK](https://github.com/mobilenetworkltd/openapk) | Android | Requested ([#59](https://github.com/mobilenetworkltd/openapk/issues/59)) |
 
 Status as of 2026-11-19.
@@ -44,7 +48,7 @@ Issues, pull requests and feedback are welcome. Contact: sovis.kr@gmail.com
 - [Android 버전](https://github.com/SOVIS-Team/SoundVisualizer-Android) · [Windows 버전](https://github.com/SOVIS-Team/SoundVisualizer-Windows) · [웹사이트](https://sovis-team.github.io) · [Android 소개 영상](https://youtu.be/Rl8BLXjoTv4) · [PC 소개 영상](https://youtu.be/NBRV5AWpb38) · [인스타그램](https://www.instagram.com/soundvisualizer.official/)
 - 국립서울농학교 청각장애 학생들과 세 차례 테스트하며 기능을 정했습니다.
 - 한국장애인재단 2026 장애인 분야 해커톤 디지털 포용 분야 입선
-- 오픈소스 목록 등록: awesome-accessibility, open-source-android-apps에 실렸고, winget, awesome-kotlin, awesome-free-apps, Open App Scout 등 8곳은 검토 중입니다(위 표 참고).
+- 오픈소스 목록 등록: awesome-accessibility, open-source-android-apps에 실렸고, winget, awesome-kotlin, awesome-free-apps, Open App Scout 등 12곳은 검토 중입니다(위 표 참고).
 
 팀: 김도환(팀장·개발·디자인), 박가람(AI), 김성진(개발)
 
