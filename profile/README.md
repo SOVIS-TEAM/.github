@@ -34,6 +34,8 @@ A student team at Dongguk University in Seoul. We make **SoundVisualizer**, an o
 | [Awesome Android Open Source Projects](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects) | Android | In review ([#87](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects/pull/87)) |
 | [awesome-free-software](https://github.com/johnjago/awesome-free-software) | Android, Windows | In review ([#177](https://github.com/johnjago/awesome-free-software/pull/177)) |
 | [awesome-hearing](https://github.com/rscircus/awesome-hearing) | Android, Windows | Listed ([#1](https://github.com/rscircus/awesome-hearing/pull/1)) |
+| [awesome-a11y](https://github.com/brunopulis/awesome-a11y) | Android, Windows | In review ([#389](https://github.com/brunopulis/awesome-a11y/pull/389)) |
+| [awesome-dotnet](https://github.com/quozd/awesome-dotnet) | Windows | In review ([#1602](https://github.com/quozd/awesome-dotnet/pull/1602)) |
 | [OpenAPK](https://github.com/mobilenetworkltd/openapk) | Android | Requested ([#59](https://github.com/mobilenetworkltd/openapk/issues/59)) |
 
 Status as of 2026-11-20.
@@ -49,7 +51,7 @@ Issues, pull requests and feedback are welcome. Contact: sovis.kr@gmail.com
 - [Android 버전](https://github.com/SOVIS-Team/SoundVisualizer-Android) · [Windows 버전](https://github.com/SOVIS-Team/SoundVisualizer-Windows) · [웹사이트](https://sovis-team.github.io) · [Android 소개 영상](https://youtu.be/Rl8BLXjoTv4) · [PC 소개 영상](https://youtu.be/NBRV5AWpb38) · [인스타그램](https://www.instagram.com/sovis.official/) · [유튜브](https://www.youtube.com/@soundvisualizer.official)
 - 국립서울농학교 청각장애 학생들과 세 차례 테스트하며 기능을 정했습니다.
 - 한국장애인재단 2026 장애인 분야 해커톤 디지털 포용 분야 입선
-- 오픈소스 목록 등록: awesome-accessibility, open-source-android-apps, awesome-hearing, AlternativeTo에 실렸고, winget, awesome-kotlin, awesome-free-apps, Open App Scout 등 11곳은 검토 중입니다(위 표 참고).
+- 오픈소스 목록 등록: awesome-accessibility, open-source-android-apps, awesome-hearing, AlternativeTo에 실렸고, winget, awesome-kotlin, awesome-free-apps, Open App Scout 등 12곳은 검토 중입니다(위 표 참고).
 
 팀: 김도환(팀장·개발·디자인), 박가람(AI), 김성진(개발)
 
