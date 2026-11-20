@@ -23,6 +23,7 @@ A student team at Dongguk University in Seoul. We make **SoundVisualizer**, an o
 | [awesome-accessibility](https://github.com/lukeslp/awesome-accessibility) | Android, Windows | Listed ([#154](https://github.com/lukeslp/awesome-accessibility/pull/154)) |
 | [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) | Android | Listed ([#555](https://github.com/pcqpcq/open-source-android-apps/pull/555)) |
 | [AlternativeTo](https://alternativeto.net/software/soundvisualizer/) | Android, Windows | Listed |
+| [ONE store](https://m.onestore.co.kr/v2/ko-kr/app/0001013096) | Android (Korea only) | Listed |
 | [Windows Package Manager (winget)](https://github.com/microsoft/winget-pkgs) | Windows | In review ([#481901](https://github.com/microsoft/winget-pkgs/pull/481901)) |
 | [awesome-kotlin](https://github.com/Heapy/awesome-kotlin) | Android | In review ([#1256](https://github.com/Heapy/awesome-kotlin/pull/1256)) |
 | [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | Android, Windows | In review ([#539](https://github.com/Axorax/awesome-free-apps/pull/539)) |
