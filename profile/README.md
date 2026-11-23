@@ -38,6 +38,7 @@ A student team at Dongguk University in Seoul. We make **SoundVisualizer**, an o
 | [awesome-hearing](https://github.com/rscircus/awesome-hearing) | Android, Windows | Listed ([#1](https://github.com/rscircus/awesome-hearing/pull/1)) |
 | [awesome-a11y](https://github.com/brunopulis/awesome-a11y) | Android, Windows | In review ([#389](https://github.com/brunopulis/awesome-a11y/pull/389)) |
 | [awesome-dotnet](https://github.com/quozd/awesome-dotnet) | Windows | In review ([#1602](https://github.com/quozd/awesome-dotnet/pull/1602)) |
+| [awesome-kr-foss](https://github.com/darjeeling/awesome-kr-foss) | Android, Windows | In review ([#22](https://github.com/darjeeling/awesome-kr-foss/pull/22)) |
 | [OpenAPK](https://github.com/mobilenetworkltd/openapk) | Android | Requested ([#59](https://github.com/mobilenetworkltd/openapk/issues/59)) |
 
 Status as of 2026-11-23.
