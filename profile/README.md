@@ -25,7 +25,7 @@ A student team at Dongguk University in Seoul. We make **SoundVisualizer**, an o
 | [AlternativeTo](https://alternativeto.net/software/soundvisualizer/) | Android, Windows | Listed |
 | [Microsoft Store](https://apps.microsoft.com/detail/9ngh48vcrfw2) | Windows | Listed |
 | [ONE store](https://m.onestore.co.kr/v2/ko-kr/app/0001013096) | Android (Korea only) | Listed |
-| [Chocolatey](https://community.chocolatey.org/packages/soundvisualizer) | Windows | In review (moderation) |
+| [Chocolatey](https://community.chocolatey.org/packages/soundvisualizer) | Windows | Listed (`choco install soundvisualizer`) |
 | [Windows Package Manager (winget)](https://github.com/microsoft/winget-pkgs) | Windows | In review ([#481901](https://github.com/microsoft/winget-pkgs/pull/481901)) |
 | [awesome-kotlin](https://github.com/Heapy/awesome-kotlin) | Android | In review ([#1256](https://github.com/Heapy/awesome-kotlin/pull/1256)) |
 | [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | Android, Windows | In review ([#539](https://github.com/Axorax/awesome-free-apps/pull/539)) |
@@ -42,7 +42,7 @@ A student team at Dongguk University in Seoul. We make **SoundVisualizer**, an o
 | [awesome-kr-foss](https://github.com/darjeeling/awesome-kr-foss) | Android, Windows | In review ([#22](https://github.com/darjeeling/awesome-kr-foss/pull/22)) |
 | [OpenAPK](https://github.com/mobilenetworkltd/openapk) | Android | Requested ([#59](https://github.com/mobilenetworkltd/openapk/issues/59)) |
 
-Status as of 2026-11-23.
+Status as of 2026-11-26.
 
 Issues, pull requests and feedback are welcome. Contact: sovis.kr@gmail.com
 
@@ -55,7 +55,7 @@ Issues, pull requests and feedback are welcome. Contact: sovis.kr@gmail.com
 - [Android 버전](https://github.com/SOVIS-Team/SoundVisualizer-Android) · [Windows 버전](https://github.com/SOVIS-Team/SoundVisualizer-Windows) · [웹사이트](https://sovis-team.github.io) · [Android 소개 영상](https://youtu.be/Rl8BLXjoTv4) · [PC 소개 영상](https://youtu.be/NBRV5AWpb38) · [인스타그램](https://www.instagram.com/sovis.official/) · [유튜브](https://www.youtube.com/@soundvisualizer.official)
 - 국립서울농학교 청각장애 학생들과 세 차례 테스트하며 기능을 정했습니다.
 - 한국장애인재단 2026 장애인 분야 해커톤 디지털 포용 분야 입선
-- 오픈소스 목록 등록: awesome-accessibility, open-source-android-apps, awesome-hearing, AlternativeTo에 실렸고, winget, awesome-kotlin, awesome-free-apps, Open App Scout 등 12곳은 검토 중입니다(위 표 참고).
+- 오픈소스 목록 등록: awesome-accessibility, open-source-android-apps, awesome-hearing, AlternativeTo, Chocolatey에 실렸고, winget, awesome-kotlin, awesome-free-apps, Open App Scout 등 13곳은 검토 중입니다(위 표 참고).
 
 팀: 김도환(팀장·개발·디자인), 박가람(AI), 김성진(개발)
 
